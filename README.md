@@ -3,6 +3,7 @@ fixedpoint-conversion
 
 float point convert to fixed point in c language.
 
+<pre><code>
 /* 
  * 附上16位整型定点数表 
  *
@@ -25,3 +26,4 @@ float point convert to fixed point in c language.
  *  Q0    1             -32768≤X≤32767
  *
  */
+</code></pre>
