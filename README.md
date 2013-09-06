@@ -25,3 +25,4 @@ float point convert to fixed point in c language.
  *  Q0         1             -32768≤X≤32767
  *
  */
+ 
